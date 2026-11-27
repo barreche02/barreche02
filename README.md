@@ -36,7 +36,7 @@ Soy curioso, creativo y resolutivo, y me gusta trabajar en equipo.
 |---|---|---|
 | 🎮 [Menú estilo Wii](https://github.com/barreche02/menu-wii) | Presenta mi marca personal como un menú de consola navegable. | ✅ Casi terminado |
 | 🕵️ [Impostor Pokémon](https://github.com/barreche02/impostor-pokemon) | Juego en equipo: hay que descubrir quién ha recibido un Pokémon distinto. | 🚧 En desarrollo |
-| 🤖 [Mini-MOBA con IA](https://github.com/barreche02/mini-moba-ia) | Juego 2D en el que dos IAs aprenderán compitiendo entre sí. | 🚧 En desarrollo |
+| 🤖 [loIA](https://github.com/barreche02/loIA) | Mini-MOBA 2D en el que dos IAs aprenderán compitiendo entre sí. | 🚧 En desarrollo |
 
 ## 📊 Estadísticas
 
